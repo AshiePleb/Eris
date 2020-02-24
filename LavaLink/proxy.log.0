@@ -1,0 +1,111 @@
+23:56:33 [INFO] Using mbed TLS based native cipher.
+23:56:33 [INFO] Using zlib based native compressor.
+23:56:33 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:17d5dd3:1477
+23:56:33 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+23:56:33 [INFO] Epoll is working, utilising it!
+23:56:33 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+23:56:33 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+23:56:33 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+23:56:33 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+23:56:33 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+23:56:33 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+23:56:33 [INFO] Attempting to update plugin from null to ModuleVersion(build=1477, git=17d5dd3)
+23:56:33 [INFO] Attempting to Jenkins download module cmd_alert v1477
+23:56:33 [INFO] Download complete
+23:56:33 [INFO] Attempting to update plugin from null to ModuleVersion(build=1477, git=17d5dd3)
+23:56:33 [INFO] Attempting to Jenkins download module cmd_find v1477
+23:56:34 [INFO] Download complete
+23:56:34 [INFO] Attempting to update plugin from null to ModuleVersion(build=1477, git=17d5dd3)
+23:56:34 [INFO] Attempting to Jenkins download module cmd_list v1477
+23:56:34 [INFO] Download complete
+23:56:34 [INFO] Attempting to update plugin from null to ModuleVersion(build=1477, git=17d5dd3)
+23:56:34 [INFO] Attempting to Jenkins download module cmd_send v1477
+23:56:34 [INFO] Download complete
+23:56:34 [INFO] Attempting to update plugin from null to ModuleVersion(build=1477, git=17d5dd3)
+23:56:34 [INFO] Attempting to Jenkins download module cmd_server v1477
+23:56:34 [INFO] Download complete
+23:56:34 [INFO] Attempting to update plugin from null to ModuleVersion(build=1477, git=17d5dd3)
+23:56:34 [INFO] Attempting to Jenkins download module reconnect_yaml v1477
+23:56:34 [INFO] Download complete
+23:56:34 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:56:34 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:56:34 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:56:34 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:56:34 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:56:34 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:56:35 [WARNING] Forced host server pvp is not defined
+23:56:35 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:56:35 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:56:35 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:56:35 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:56:35 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:56:35 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:56:35 [INFO] Listening on /0.0.0.0:25577
+23:59:27 [INFO] Using mbed TLS based native cipher.
+23:59:27 [INFO] Using zlib based native compressor.
+23:59:27 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:17d5dd3:1477
+23:59:27 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+23:59:27 [INFO] Epoll is working, utilising it!
+23:59:27 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+23:59:27 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+23:59:27 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+23:59:27 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+23:59:27 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+23:59:27 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+23:59:27 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:59:27 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:59:27 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:59:27 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:59:27 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:59:27 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:59:27 [WARNING] Forced host server pvp is not defined
+23:59:27 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:59:27 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:59:27 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:59:27 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:59:27 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:59:27 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+23:59:27 [INFO] Listening on /0.0.0.0:12345
+23:59:27 [INFO] Started query on /0:0:0:0:0:0:0:0%0:12345
+23:59:32 [SEVERE] [/172.18.0.1:45064] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a53
+23:59:34 [INFO] Closing listener [id: 0x71f1e7f6, L:/0:0:0:0:0:0:0:0%0:12345]
+23:59:34 [INFO] Closing listener [id: 0xf78594df, L:/0:0:0:0:0:0:0:0%0:12345]
+23:59:34 [INFO] Closing pending connections
+23:59:34 [INFO] Disconnecting 0 connections
+23:59:34 [INFO] Saving reconnect locations
+23:59:34 [INFO] Disabling plugins
+23:59:34 [INFO] Closing IO threads
+00:00:04 [INFO] Using mbed TLS based native cipher.
+00:00:04 [INFO] Using zlib based native compressor.
+00:00:04 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:17d5dd3:1477
+00:00:04 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+00:00:04 [INFO] Epoll is working, utilising it!
+00:00:04 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+00:00:04 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+00:00:04 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+00:00:04 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+00:00:04 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+00:00:04 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+00:00:04 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+00:00:04 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+00:00:04 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+00:00:04 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+00:00:04 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+00:00:04 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+00:00:04 [WARNING] Forced host server pvp is not defined
+00:00:04 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+00:00:04 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+00:00:04 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+00:00:04 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+00:00:04 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+00:00:04 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:17d5dd3:1477 by SpigotMC
+00:00:04 [INFO] Listening on /0.0.0.0:12345
+00:00:04 [INFO] Started query on /0:0:0:0:0:0:0:0%0:12345
+00:00:19 [SEVERE] [/172.18.0.1:45080] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a53
+00:01:07 [INFO] Closing listener [id: 0xc49eca77, L:/0:0:0:0:0:0:0:0%0:12345]
+00:01:07 [INFO] Closing listener [id: 0x59fef0e3, L:/0:0:0:0:0:0:0:0%0:12345]
+00:01:07 [INFO] Closing pending connections
+00:01:07 [INFO] Disconnecting 0 connections
+00:01:07 [INFO] Saving reconnect locations
+00:01:07 [INFO] Disabling plugins
+00:01:07 [INFO] Closing IO threads

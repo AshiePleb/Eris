@@ -1,0 +1,3 @@
+2020-02-23 21:13:50.903  INFO 24 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.18.0.1:52800 -- CloseStatus[code=1006, reason=]
+2020-02-23 21:13:50.910  INFO 24 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2020-02-23 21:13:50.917  INFO 24 --- [XNIO-1 I/O-1] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.

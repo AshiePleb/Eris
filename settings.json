@@ -1,0 +1,39 @@
+{
+  "token": "NjQ4MzY0NjMxOTk1MzE4Mjcz.XgZ8zg.cMMgk3bctVH9mENuofPyuQ09Nm0",
+  "prefix": "e?",
+  "managers": [
+    "608003284548190209",
+    "324653201947230212"
+  ],
+  "presence": "dnd",
+  "status": [
+    {
+      "type": 2,
+      "name": "music"
+    },
+    {
+      "type": 3,
+      "name": "{usercount} users"
+    },
+    {
+      "type": 1,
+      "name": "for {usercount} users"
+    },
+    {
+      "type": 1,
+      "name": "in {guildcount} guilds"
+    },
+    {
+      "type": 0,
+      "name": "Skylar is daddy 💖"
+    },
+    {
+      "type": 0,
+      "name": "QTBunny32"
+    },
+    {
+      "type": 0,
+      "name": "MCKingSam"
+    }
+  ]
+}

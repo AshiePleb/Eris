@@ -1,0 +1,18 @@
+{
+  "name": "eris-music",
+  "version": "1.0.0",
+  "description": "Music bot coded in the eris libary",
+  "main": "bot.js",
+  "dependencies": {
+    "data-store": "^4.0.3",
+    "eris": "^0.11.1",
+    "fs": "^0.0.1-security",
+    "require-reload": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashley and Max",
+  "license": "ISC"
+}
