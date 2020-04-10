@@ -7,7 +7,7 @@ var fs = require('fs');
 var bot = new Eris(settings.get("token"));
 
 let nodes = [
-  { host: '167.71.124.23', port: '12345', region: 'SFO', password: 'apasswordsostrongforlavalink' }
+  { host: '213.136.84.153', port: '25562', region: 'Contabo', password: 'apasswordsostrongforlavalink' }
 ];
 
 function roundTo(n, digits) {

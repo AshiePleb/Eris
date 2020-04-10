@@ -2,7 +2,7 @@
   "token": "NjQ4MzY0NjMxOTk1MzE4Mjcz.XgZ8zg.cMMgk3bctVH9mENuofPyuQ09Nm0",
   "prefix": "e?",
   "managers": [
-    "608003284548190209",
+    "633853159608942622",
     "324653201947230212"
   ],
   "presence": "dnd",
@@ -22,18 +22,6 @@
     {
       "type": 1,
       "name": "in {guildcount} guilds"
-    },
-    {
-      "type": 0,
-      "name": "Skylar is daddy 💖"
-    },
-    {
-      "type": 0,
-      "name": "QTBunny32"
-    },
-    {
-      "type": 0,
-      "name": "MCKingSam"
     }
   ]
 }
